@@ -3,9 +3,9 @@
     "name": "Twittor para héroes",
     "start_url": "index.html?utm_source=homescreen",
     "background_color": "#3498db",
+    "theme_color": "#3498db",
     "display": "standalone",
     "orientation": "portrait",
-    "theme_color": "#3498db",
     "icons": [
         {
             "src": "img/icons/icon-72x72.png",
